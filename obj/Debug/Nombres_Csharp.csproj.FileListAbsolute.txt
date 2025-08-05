@@ -1,0 +1,10 @@
+C:\Users\herna\source\repos\Nombres_Csharp\bin\Debug\Nombres_Csharp.exe.config
+C:\Users\herna\source\repos\Nombres_Csharp\bin\Debug\Nombres_Csharp.exe
+C:\Users\herna\source\repos\Nombres_Csharp\bin\Debug\Nombres_Csharp.pdb
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.Form1.resources
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.Properties.Resources.resources
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.csproj.GenerateResource.cache
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.exe
+C:\Users\herna\source\repos\Nombres_Csharp\obj\Debug\Nombres_Csharp.pdb
